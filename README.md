@@ -7,6 +7,7 @@
 #### The purpose of this assignment is two-fold. The first is the most obvious: to practice using pandas to clean and analyze data. As we all know, all data is not going to be complete and accurate. It's important to be able to know how to take in the data, determine if the data is not complete, and use your tools to "clean up" the data. The second purpose is directly related to the challenge itself. PyCity schools wanted to determine its budget for the school year. In order to do so, it wants to look into the passing percentage for different schools and grades within the school district. Unfortunately, data for 9th graders at Thomas High School seemed to be manipulated. Therefore, to get a more accurate analysis, we had to get rid of the 9th graders at Thomas High School. After completing the analysis on the new, more accurate data, then we could give recommendations to the PyCity school board on what to do with their budget. 
 
 ## Results
+<img width="419" alt="Screen Shot 2022-03-12 at 4 06 37 PM" src="https://user-images.githubusercontent.com/96541632/158035013-461cd289-ff80-4534-8623-57be39c8113b.png">
 
 ### How is the district summary affected? 
 
@@ -35,11 +36,23 @@
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
-
+  j
 #### Math Scores pre and post change
 
+##### The first image is prior to the change and the second is after. There is no difference despite changing the 9th grade scores. 
+
+<img width="419" alt="Screen Shot 2022-03-12 at 3 50 08 PM" src="https://user-images.githubusercontent.com/96541632/158034565-af83ba32-ce47-4276-90bd-288fca8f6003.png">
+
+
+<img width="409" alt="Screen Shot 2022-03-12 at 3 42 14 PM" src="https://user-images.githubusercontent.com/96541632/158034316-f4703146-e3b7-46c6-9227-56b9ec41689e.png">
 
 
 #### Reading scores pre and post change
 
+##### The first image is prior to the change and the second is after. There is no difference despite changing the 9th grade scores.
 
+<img width="297" alt="Screen Shot 2022-03-12 at 4 07 48 PM" src="https://user-images.githubusercontent.com/96541632/158035046-4e6593ca-2c1f-4402-9041-c0060805afaa.png">
+
+<img width="297" alt="Screen Shot 2022-03-12 at 4 08 14 PM" src="https://user-images.githubusercontent.com/96541632/158035057-2acde846-1788-4b8d-a8cf-306a2ae7fcbe.png">
+
+#### Scores by school spending? 
