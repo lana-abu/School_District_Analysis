@@ -36,7 +36,7 @@
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
-  j
+  
 #### Math Scores pre and post change
 
 ##### The first image is prior to the change and the second is after. There is no difference despite changing the 9th grade scores. 
@@ -56,3 +56,4 @@
 <img width="297" alt="Screen Shot 2022-03-12 at 4 08 14 PM" src="https://user-images.githubusercontent.com/96541632/158035057-2acde846-1788-4b8d-a8cf-306a2ae7fcbe.png">
 
 #### Scores by school spending? 
+
