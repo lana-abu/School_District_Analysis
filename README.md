@@ -57,3 +57,23 @@
 
 #### Scores by school spending? 
 
+##### The first image is prior to the change and the second is after. There is no change despite replacing the scores. 
+
+<img width="808" alt="Screen Shot 2022-03-28 at 2 40 42 PM" src="https://user-images.githubusercontent.com/96541632/160464942-aedb3d24-1fb1-49cc-ac24-463cd23a8358.png">
+
+<img width="808" alt="Screen Shot 2022-03-28 at 2 40 58 PM" src="https://user-images.githubusercontent.com/96541632/160464983-21f06930-6d89-45af-9c7a-b5fe9c638f59.png">
+
+
+#### Scores by school size? 
+
+##### The first image is prior to the change and the second is after. There is no change despite replacing the scores. 
+
+<img width="808" alt="Screen Shot 2022-03-28 at 2 41 17 PM" src="https://user-images.githubusercontent.com/96541632/160465032-7b501561-b374-4298-bfa3-01ca92cf8f52.png">
+
+<img width="808" alt="Screen Shot 2022-03-28 at 2 41 41 PM" src="https://user-images.githubusercontent.com/96541632/160465081-3afd4952-5407-421e-93af-6d91613fc41b.png">
+
+#### Scores by school type
+
+
+
+
