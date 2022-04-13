@@ -74,6 +74,15 @@
 
 #### Scores by school type
 
+##### The first image is prior to the change and the second is after. There is no change despite replacing the scores.
+
+<img width="808" alt="Screen Shot 2022-04-13 at 1 08 55 PM" src="https://user-images.githubusercontent.com/96541632/163233697-2b0a58c6-1126-4f34-9b62-526bcf6fed93.png">
+
+<img width="808" alt="Screen Shot 2022-04-13 at 1 09 41 PM" src="https://user-images.githubusercontent.com/96541632/163233832-e33e03b9-253a-4f11-8f1f-249739108482.png">
+
+### Summary
+
+#### In summary, a few changes took place when math and reading scores for 9th graders at Thomas High School with NaNs. The most noticeable change was the percent of students passing math and reading at THS. The percent of students passing math went from 93.3% to 66.9%. The percent of students who passed reading went from 97.3% to 69.7%. The average math score decreased just a bit as well as the average reading score. Looking at the average scores for spending ranges: the spending range from $630 to 644 saw a slight decrease in average scores and percent of students passing scores. This is due to Thomas Highschool being apart of it. 
 
 
 
